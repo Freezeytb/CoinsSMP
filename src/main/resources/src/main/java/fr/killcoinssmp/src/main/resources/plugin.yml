@@ -1,0 +1,8 @@
+name: KillCoinsSMP
+version: 1.0
+main: fr.killcoinssmp.KillCoinsSMP
+api-version: '1.21'
+commands:
+  killcoins:
+    description: Affiche tes KillCoins
+    usage: /killcoins
